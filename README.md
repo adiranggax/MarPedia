@@ -29,8 +29,6 @@ My name is **Adirangga** and I'm a **Student**, from **Indonesia 🇮🇩**
 
 ---
 
----
-
 ### 🧠 My Tech Stack
 
 #### 🌐 Web Development
